@@ -1,5 +1,5 @@
 /*creando app en react:
-npx create-react-app react-basicos
+comando para crear app : npx create-react-app react-basicos
 
 El flujo basico de una aplicacion de react es el siguiente
 
